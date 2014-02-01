@@ -1,0 +1,16 @@
+{
+  "name": "rabbitmq-apn",
+  "description": "Apple Push Notification service with Node.js and RabbitMQ",
+  "version": "0.0.1",
+  "author": "Henter <henter@henter.me>",
+  "dependencies": {
+    "apn": "1.4.4",
+    "amqp": "0.1.8"
+  },
+  "keywords": [
+    "rabbitmq",
+    "apn"
+  ],
+  "repository": "git://github.com/henter/node-rabbitmq-apn",
+  "license": "MIT"
+}
